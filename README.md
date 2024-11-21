@@ -30,4 +30,4 @@
 
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=djs100201&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle=djs100201&theme=warm"/>
+
