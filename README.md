@@ -1,5 +1,5 @@
 <div align="center">
-	![header](https://capsule-render.vercel.app/api?type=Cylinder&text=welcome!)
+	![header](https://capsule-render.vercel.app/api?type=Cylinder&text=welcome)
 </div>
 
 <div align=center>
