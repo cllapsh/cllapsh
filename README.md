@@ -22,6 +22,7 @@
 </h3>
 
 - Object-Oriented Programming, OOP
+- Programming
 - Leadership
 
 
