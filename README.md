@@ -42,5 +42,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cllapsh&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cllapsh&show_icons=true&theme=transparent)
 
 
- <a href="mailto:suhyeonpark111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
